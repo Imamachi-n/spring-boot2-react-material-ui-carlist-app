@@ -5,3 +5,19 @@ This is the code repository for [Hands-On Full Stack Development with Spring Boo
 **Build modern and scalable full stack application using the Java-based Spring boot 2 (Server side) and React (Client side)**
 
 This repository was modified from the original source code [Hands-On Full Stack Development with Spring Boot 2.0 and React](https://github.com/PacktPublishing/Hands-On-Full-Stack-Development-with-Spring-Boot-2.0-and-React) for bug fixes.
+
+## Login
+
+![login.gif](login.gif))
+
+## Add a new car
+
+![add.gif](add.gif))
+
+## Update a new car info
+
+![update.gif](update.gif))
+
+## Delete a new car
+
+![delete.gif](delete.gif))
