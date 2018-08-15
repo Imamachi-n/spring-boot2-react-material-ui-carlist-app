@@ -8,16 +8,16 @@ This repository was modified from the original source code [Hands-On Full Stack 
 
 ## Login
 
-![login.gif](login.gif))
+![login.gif](login.gif)
 
 ## Add a new car
 
-![add.gif](add.gif))
+![add.gif](add.gif)
 
 ## Update a new car info
 
-![update.gif](update.gif))
+![update.gif](update.gif)
 
 ## Delete a new car
 
-![delete.gif](delete.gif))
+![delete.gif](delete.gif)
