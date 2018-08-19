@@ -14,7 +14,7 @@ This repository was modified from the original source code [Hands-On Full Stack 
 docker run -it --rm --name mariadb -e MYSQL_DATABASE=cardb_test -e MYSQL_ROOT_PASSWORD=password -p 3307:3306 -d mariadb:10.3.9
 ```
 
-### 2. Run Backend server (Spring Boot, port:8090)
+### 2. Run Backend server (Spring Boot2 embedded Tomcat, port:8090)
 
 ```bash
 # For MacOS, Linux
